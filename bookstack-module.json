@@ -1,0 +1,5 @@
+{
+    "name": "bookstack-mcp",
+    "description": "Remote MCP server for AI assistants (Claude, etc.) with OAuth login. Read-only access to shelves, books, chapters and pages, using each user's own BookStack permissions.",
+    "version": "v0.1.0"
+}
