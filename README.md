@@ -94,3 +94,5 @@ php artisan bookstack-mcp:install --uninstall         # drop the module's tables
 - Endpoints added: `/mcp`, `/mcp/oauth/{authorize,token,register,revoke}`, `/mcp/connections`,
   `/.well-known/{oauth-protected-resource[/mcp],oauth-authorization-server,openid-configuration}`.
 - Tables added: `mcp_oauth_clients`, `mcp_oauth_tokens`. Authorization codes live in the BookStack cache for 5 minutes.
+
+Copyright (c) 2026 Daniel Duris
